@@ -1,4 +1,7 @@
 # Trading
+### Tipos de Trading
+- *Trading Discrecional:* Todas las decisiones son tomadas por nosotros mismos, basadas en proyecciones realizadas como indicadores, acción de precios, etc.
+- *Trading Algorítmico:* Loa análisis son realizados por algoritmos o computadores.
 
 ## Análisis Técnico de Mercados Financieros
 
@@ -26,6 +29,38 @@ De sus siglas en inglés, un Contract For Difference es un contrato que se basa 
 - *Análisis Macroeconómico:* Evalúa la situación financiera de un país y cómo esto podría influir en la oferta y demanda.
 - *Análisis Cuantitativo:* Es procesado por algoritmos, el cual funciona con base en comportamientos pasados del mercado y se toman decisiones automatizadas a partir de lo que ha sucedido anteriormente.
 
-### Tipos de Trading
-- *Trading Discrecional:* Todas las decisiones son tomadas por nosotros mismos, basadas en proyecciones realizadas como indicadores, acción de precios, etc.
-- *Trading Algorítmico:* Loa análisis son realizados por algoritmos o computadores.
+## Análisis Técnico
+### Filosofía del Análisis Técnico
+- Los movimientos del precio lo cuentan todo.
+- Los precios se mueven por tendencias.
+- La historia se repite.
+
+### Tipo de Analistas
+- Intradia
+  - Temporalidades: 1m, 5m, 15m, 1h
+  - Tiempo de las operaciones: Entre la apertura y cierre de las sesiones (Londres, NY, Asia)
+- Swing
+  - Temporalideades: 4h, D (Daily), W (Weekly)
+  - Tiempo de las operaciones: Días o semanas
+- Position
+  - Temporalidades: D, W, M (Monthly)
+  - Semanas o meses
+
+### Broker o plataformas de intercambio
+Programa informático que permite realizar operaciones con instrumentos financieros en tiempo real. Estas entidades ejecutan las órdenes del mercado bursátil y el trader es quien opera la plataforma.
+Un broker es una entidad o empresa financiera que ejecuta órdenes de compra, venta y cobra comisiones por este servicio y cuenta con licencia para la compra y venta de acciones en los mercados bursátiles.Los traders necesitan de ellos para operar en estos mercados.
+#### Cómo elegir un broker?
+- Dependiendo del mercado (acciones, CFDs, ETF, Forex, cripto, etc.)
+- Regulación y fiabilidad del broker
+- Métodos de déposito y retiro
+- Depósitos mínimos, lotaje y apalancamiento
+- Instrumento de inversión disponibles y herramientas
+- Tipos de ejecución de brokers (Market Maker o ECN)
+- Spreads y comisiones
+- Atención al cliente, formación, cuentas de prueba
+- Disponibilidad en tu país
+- Investiga antes de elegir un broker
+
+### Tipos de cuentas
+- Paper trading o cuentas demo
+- Cuentas reales

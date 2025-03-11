@@ -79,8 +79,10 @@ El primer eje (x) representa el tiempo y el segundo eje (y) representa el precio
 
 - #### Gráfico de línea
 Este tipo de gráfico solo tiene en cuenta el precio de cierre de un activo (precio de cierre, es decir, el precio final después del cambio al final del día). No toma en cuenta los precios de apertura o espacios que otros gráficos sí.
+
 - #### Gráfico de barras
 Los gráficos de barras tienen en cuenta el precio de cierre y el precio de apertura, el precio máximo y precio mínimo en la temporalidad elegida.
+![Gráfico barras](images/Grafico_barras.png)
 
 - #### Gráfico de velas japonesas
 En los gráficos de velas japonesas tenemos un cuerpo que representa un color:

@@ -67,10 +67,31 @@ Un broker es una entidad o empresa financiera que ejecuta órdenes de compra, ve
 
 ### Acción de precio
 Es como de forma gráfica se puede evaluar el precio para tomar decisiones, basado en la *Oferta* y la *Demanda*.
-- *Oferta:* Vendedores → Intención de que el precio del activo baje → Osos → Gráfico bajista .
+- *Oferta:* Vendedores → Intención de que el precio del activo baje → Osos → Gráfico bajista.
 - *Demanda:* Compradores → Intención de que el precio del activo suba → Toros → Gráfico alcista.
 
 ### Tipos de gráficos
 El primer eje (x) representa el tiempo y el segundo eje (y) representa el precio del activo. Es decir, la oferta y la demanda. Nos estamos enfrentando a pares de trading en la representación gráfica. ¿Eso qué significa? Básicamente, el cúmulo de 2 activos que normalmente se representa con tres letras.
-  Bitcoin → BTC
-  Dólar estadounidense → USD
+- Bitcoin → BTC
+- Dólar estadounidense → USD
+
+![Representacion de un gráfico](images/Representacion_grafico.png)
+
+- #### Gráfico de línea
+Este tipo de gráfico solo tiene en cuenta el precio de cierre de un activo (precio de cierre, es decir, el precio final después del cambio al final del día). No toma en cuenta los precios de apertura o espacios que otros gráficos sí.
+- #### Gráfico de barras
+Los gráficos de barras tienen en cuenta el precio de cierre y el precio de apertura, el precio máximo y precio mínimo en la temporalidad elegida.
+
+- #### Gráfico de velas japonesas
+En los gráficos de velas japonesas tenemos un cuerpo que representa un color:
+  - Rojo: la venta o intención de oferta.
+  - Verde: demanda, intención de compra.
+    
+Función de los gráficos de velas japonesas:
+- Evaluar el interés del precio de un activo en el mercado.
+- Obtener información del precio y patrones que, encontrados en zonas particulares, pueden ayudarnos a tomar decisiones más efectivas en el tiempo.
+- Generan una lectura fácil por su uso de colores.
+- Son las que nos muestran el precio de apertura, cierre, el alto y el mínimo de la temporalidad elegida.
+
+
+

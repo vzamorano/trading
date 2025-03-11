@@ -88,6 +88,7 @@ Los gráficos de barras tienen en cuenta el precio de cierre y el precio de aper
 En los gráficos de velas japonesas tenemos un cuerpo que representa un color:
   - Rojo: la venta o intención de oferta.
   - Verde: demanda, intención de compra.
+![Gráfico velas](images/Grafico_velas.png)
     
 Función de los gráficos de velas japonesas:
 - Evaluar el interés del precio de un activo en el mercado.

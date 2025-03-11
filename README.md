@@ -64,3 +64,13 @@ Un broker es una entidad o empresa financiera que ejecuta órdenes de compra, ve
 ### Tipos de cuentas
 - Paper trading o cuentas demo
 - Cuentas reales
+
+### Acción de precio
+Es como de forma gráfica se puede evaluar el precio para tomar decisiones, basado en la *Oferta* y la *Demanda*.
+- *Oferta:* Vendedores → Intención de que el precio del activo baje → Osos → Gráfico bajista .
+- *Demanda:* Compradores → Intención de que el precio del activo suba → Toros → Gráfico alcista.
+
+### Tipos de gráficos
+El primer eje (x) representa el tiempo y el segundo eje (y) representa el precio del activo. Es decir, la oferta y la demanda. Nos estamos enfrentando a pares de trading en la representación gráfica. ¿Eso qué significa? Básicamente, el cúmulo de 2 activos que normalmente se representa con tres letras.
+  Bitcoin → BTC
+  Dólar estadounidense → USD

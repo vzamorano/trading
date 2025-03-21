@@ -96,5 +96,16 @@ Función de los gráficos de velas japonesas:
 - Generan una lectura fácil por su uso de colores.
 - Son las que nos muestran el precio de apertura, cierre, el alto y el mínimo de la temporalidad elegida.
 
+### Tendencias de mercado
+El precio se mueve por tendencias, lsa cuales están formadas por una sucesión de máximos y mínimos. Son la dirección que siguen los precios del mercado, es decir hacia donde se están moviendo los precios.
+- *Tendencias sostenidas en el tiempo:* Pendiente en torno a los 45°.
+- *Tendencias fuertes:* Pendiente casi vertical y que normalmente muestran una menor duración en el tiempo.
+Se utilizan líneas de tendencia para medir fortaleza.
+
+#### Tipos de tendencia
+- Alcistas
+- Bajistas
+- Laterales
+
 
 

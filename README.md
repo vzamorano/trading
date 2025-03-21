@@ -106,6 +106,6 @@ Se utilizan líneas de tendencia para medir fortaleza.
 - Alcistas
 - Bajistas
 - Laterales
-
-
+![Gráfico tendencias](images/Tendencias.png)
+![Gráfico tendencias2](images/Tendencias2.png)
 

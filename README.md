@@ -107,15 +107,17 @@ Se utilizan líneas de tendencia para medir fortaleza.
 - Bajistas
 - Laterales
 ![Gráfico tendencias](images/Tendencias.png)
-
 ![Gráfico tendencias2](images/Tendencias2.png)
 
 ### Soportes y resistencias
 Los soportes y las resistencias son obstáculos que frenan el precio. La acción en el precio determina el futuro en el soporte o resistencia:
 
 - *Soporte:* nivel donde el precio frena descenso e inicia ascenso.
-    Acción del precio (patrones): Fuerza (interés)+Demanda=> Comprar, Fuerza(interés)+Oferta => Esperar
-    Es un nivel de precio por debajo del actual, se espera que la fuerza de compra supere a la de venta, por lo que un impulso bajista se verá frenado y por lo tanto el precio repuntará. Normalmente, un soporte corresponde a un mínimo        alcanzado anteriormente.
+    - Acción del precio (patrones): Fuerza (interés)+Demanda=> Comprar, Fuerza(interés)+Oferta => Esperar
+    - Es un nivel de precio por debajo del actual, se espera que la fuerza de compra supere a la de venta, por lo que un impulso bajista se verá frenado y por lo tanto el precio repuntará. Normalmente, un soporte corresponde a un mínimo        alcanzado anteriormente.
 - *Resistencia:* nivel donde el precio frena ascenso e inicia descenso.
-    Acción del precio (patrones): Fuerza (interés)+Demanda=> Comprar, Fuerza(interés)+Oferta => Vender
-    Es un precio por encima del actual, la fuerza de venta superará a la de compra, poniendo fin al impulso alcista, y por lo tanto el precio retrocederá. Las resistencias se identifican comúnmente en una gráfica como máximos anteriores      alcanzados por la cotización.
+    - Acción del precio (patrones): Fuerza (interés)+Demanda=> Comprar, Fuerza(interés)+Oferta => Vender
+    - Es un precio por encima del actual, la fuerza de venta superará a la de compra, poniendo fin al impulso alcista, y por lo tanto el precio retrocederá. Las resistencias se identifican comúnmente en una gráfica como máximos     
+      anteriores alcanzados por la cotización.
+
+![Gráfico tendencias2](images/Soportes_Resistencias.png)

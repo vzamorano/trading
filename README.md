@@ -121,3 +121,23 @@ Los soportes y las resistencias son obstáculos que frenan el precio. La acción
       anteriores alcanzados por la cotización.
 
 ![Gráfico tendencias2](images/Soportes_Resistencias.png)
+
+### Estructuras de mercado
+- *Impulsos:* Movimientos de aceleración de la tendencia principal.
+- *Retrocesos:* Correcciones de dichos impulsos.
+- Los impulsos son el aumento del precio de un activo y retroceso es cuando un activo baja de precio.
+
+Nuestro pensamiento debe ser: Me encuentro en un retroceso, acciono como llego a este pensamiento -> La realidad es que nos vamos al gráfico nos preguntamos donde nos encontramos, este es un soporte si, hay interés de demanda si, defines un retroceso que viene un impulso así que me voy a favor del impulso.
+1. Donde te encuentras
+2. Saber la tendencia principal
+3. Interes de la demanda
+4. Que viene? y seguir el impulso o retroceso
+
+PD Recuerda -> Leer la oferta, leer la demanda, leer el interés, agregamos uno nuevo en que punto del precio nos encontramos. Las tendencias rara vez son constantes y lineales.
+
+Como saber si se rompe la tendencia:
+- Una estructura se rompe cuando otra tendencia se reincorpora en nuestra línea de tiempo.
+- En teoría se rompe una tendencia bajista cuando el ultimo LH (bajo mas alto) es roto.
+- También es importante señalar que las tendencias bajistas traen en si acompañamiento de LL (Bajos mas bajos)
+- Siempre entre un LH (Bajo mas alto) y un (Bajo mas bajo) LL crean un rango. dicho rango es importante para nosotros
+- Rangos son zonas chicas que debemos estudiar de la gráfica.

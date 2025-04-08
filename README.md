@@ -141,3 +141,5 @@ Como saber si se rompe la tendencia:
 - También es importante señalar que las tendencias bajistas traen en si acompañamiento de LL (Bajos mas bajos)
 - Siempre entre un LH (Bajo mas alto) y un (Bajo mas bajo) LL crean un rango. dicho rango es importante para nosotros
 - Rangos son zonas chicas que debemos estudiar de la gráfica.
+
+![Gráfico tendencias2](images/Estructuras_mercado.png)
